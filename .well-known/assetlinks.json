@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.healthaure.app",
+      "sha256_cert_fingerprints": [
+        "4E:58:5D:0D:F0:9B:53:D2:0A:0E:D6:96:AC:82:C7:2A:C4:68:D4:35:A6:9F:56:D7:B7:94:EC:91:87:F9:07:E2"
+      ]
+    }
+  }
+]
